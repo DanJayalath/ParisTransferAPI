@@ -1,0 +1,6 @@
+@ParisTransferAPI_HostAddress = http://localhost:5057
+
+GET {{ParisTransferAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
